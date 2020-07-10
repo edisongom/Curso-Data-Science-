@@ -51,8 +51,3 @@ Además, es importante tener en cuenta que la mayoría de los proyectos se basan
 ## Lo que puedes construir usando R.
 
 El trabajo de Hilary se realizó utilizando el lenguaje de programación R. A lo largo de los cursos de esta serie, aprenderá los conceptos básicos de la programación en R, explorando y analizando datos, y cómo crear informes y aplicaciones web que le permitan comunicar sus resultados de manera efectiva. Para darle un ejemplo de los tipos de cosas que se pueden construir usando la programación R y el conjunto de herramientas disponibles que usan R, a continuación se presentan algunos ejemplos de los tipos de cosas que se han construido usando el proceso de ciencia de datos y la programación R idioma: los tipos de cosas que podrá generar al final de esta serie de cursos.
-
-# Riesgo de predicción de sobredosis de opioides en Providence, RI
-
-Los estudiantes de maestría de la Universidad de Pensilvania se propusieron predecir el riesgo de sobredosis de opioides en Providence, Rhode Island. Incluyen detalles sobre los datos que usaron, los pasos que tomaron para limpiar sus datos, su proceso de visualización y sus resultados finales. Si bien los detalles no son importantes ahora, es importante ver el proceso y qué tipos de informes se pueden generar. Además, han creado una aplicación Shiny, que es una aplicación web interactiva. Esto significa que puede elegir en qué vecindario de Providence desea concentrarse. Todo esto fue construido usando la programación R.
-
